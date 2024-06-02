@@ -1,0 +1,28 @@
+{
+    "pacientes": [
+        {
+            "nombre": "Luis",
+            "apellido": "Salgado",
+            "edad": "22",
+            "id": "1"
+        },
+        {
+            "nombre": "Andr\u00e9s",
+            "apellido": "Lop\u00e9z",
+            "edad": "32",
+            "id": "3"
+        },
+        {
+            "nombre": "Rosa",
+            "apellido": "Perez",
+            "edad": "67",
+            "id": "23"
+        },
+        {
+            "nombre": "Angela",
+            "apellido": "Restrepo",
+            "edad": "35",
+            "id": "6"
+        }
+    ]
+}
